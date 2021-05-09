@@ -3,7 +3,7 @@ risk management
 ## Abstract
 The sudden fall of bitcoin price often leads to the fluctuation of related digital currencies. Whether different digital currencies have the same trend as bitcoin reflects the market's expectation for the future trend of digital currency. When the trend of most digital currencies is the same as that of bitcoin, it means that the market may rise or fall sharply in the future. Therefore, this paper quantifies the short-term (lag) selling risk measurement of such a risk control index.
 ## Reference material
-
+[1] Mensi W ,  Rehman M U ,  Al-Yahyaee K H , et al. Time frequency analysis of the commonalities between Bitcoin and major Cryptocurrencies: Portfolio risk management implications[J]. The North American Journal of Economics and Finance, 2019, 48(APR.):283-294.
 ## Research process
 ### Data choose
 We will analyze the market situation of bitcoin selling after it reached $61788 on March 13, 2021. Two days later, the price of bitcoin dropped to $54568.
